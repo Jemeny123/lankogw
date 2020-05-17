@@ -24,7 +24,7 @@ input{
     background: #d51b51;
     text-align: center;
 }
-.zhuce h1{
+.zhuce h1 {
     height: 104px;
     font-size: 24px;
     line-height: 104px;
@@ -35,7 +35,7 @@ input{
     margin: 0 64px;
     color: #999;
 }
-.zhuce h1 b{
+.zhuce h1 b {
     color: black;
 }
 .zhuce .zhuce-l{
@@ -54,7 +54,7 @@ input{
 }
 .zhuce-l p{
     font-size: 10px;
-    color: #a94442;
+    color: red;
     padding-left: 103px;
     margin-bottom: 10px;
 }
@@ -66,7 +66,7 @@ input{
     margin-top: 20px;
 }
 .zhuce-l h3{
-    color: black;
+    color: red;
     margin: 23px 0 26px 0;
     font-size: 12px;
 }

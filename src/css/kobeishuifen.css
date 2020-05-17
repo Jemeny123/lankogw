@@ -101,17 +101,33 @@ a{
     font-weight: bold;
     margin-bottom: 37px;
 }
-.gwc-r p:nth-of-type(5) a{
-    display: inline-block;
-    width: 161px;
+.gwc-r p:nth-of-type(5) input{
     height: 48px;
+    width: 24px;
+    text-align: center;
+}
+.gwc-r P:nth-of-type(5) #count{
+    height: 44px;
+    width: 58px;
+}
+.gwc-r P:nth-of-type(5) input:nth-of-type(5){
+    width: 161px;
     background: black;
     color: white;
-    text-align: center;
-    line-height: 48px;
+    border: none;
     margin-left: 14px;
 }
-.gwc-r p:nth-of-type(5) a:hover{
+.gwc-r P:nth-of-type(5) input:nth-of-type(5):hover{
+    background: #d61b52;
+}
+.gwc-r #btnAddShoppingCar{
+    width: 161px;
+    background: black;
+    color: white;
+    border: none;
+    margin-left: 14px;
+}
+.gwc-r #btnAddShoppingCar:hover{
     background: #d61b52;
 }
 .gwc-r p:nth-of-type(6){

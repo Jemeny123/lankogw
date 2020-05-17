@@ -25,6 +25,7 @@ input{
     text-align: center;
 }
 .denglu h1{
+    display: block;
     height: 104px;
     font-size: 24px;
     line-height: 104px;
@@ -35,7 +36,7 @@ input{
     margin: 0 64px;
     color: #999;
 }
-.denglu h1 b{
+.denglu h1 b {
     color: #999;
 }
 .denglu .denglu-l{
@@ -81,7 +82,7 @@ input{
 }
 .dxyzm-box #dxyzm{
     width: 172px;
-    margin-left: 17px
+    margin-left: 56px;
 }
 .dxyzm-box a{
     position: absolute;
